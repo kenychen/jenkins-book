@@ -7,16 +7,16 @@
 
 1.	Agile Development：有效率的溝通，做最有價值的事。
 2.	Continuous Integration：自動化測試，自動化建置，讓重覆的事情可以自動執行。
-3.	Continuous Delivery：讓專案可以自動發布，隨時有穩定版本可以運作，加速 test 驗證。
+3.	Continuous Delivery：讓專案可以自動發佈，隨時有穩定版本可以運作，加速 test 驗證。
 4.	DevOps：確保運行環境正常，負責將上述各個機制建置及維護，還有一旦 production deployment 之後的維運。
 
 當然，實際狀況絕對不是 DevOps 這個職位的人單一可以完成上述所有的整合，必須要專案開發人員與及規劃時皆已考慮才有可能順暢的進行。
 
 上述每一個環節都是要避免所有不必要的浪費
 
-1. Agile Development：避免用昂貴的人力（你）無效的溝通。
-2. Continuous Integration：避免用昂貴的人力（你）進行重覆測試，避免用昂貴的人力（你）進行重覆專案的建置及測試。
-3. Continuous Delivery：避免用昂貴的人力（你）處理 produciton deployment 的瑣碎細節。
+1.	Agile Development：避免用昂貴的人力（你）無效的溝通。
+2.	Continuous Integration：避免用昂貴的人力（你）進行重覆測試，避免用昂貴的人力（你）進行重覆專案的建置及測試。
+3.	Continuous Delivery：避免用昂貴的人力（你）處理 produciton deployment 的瑣碎細節。
 
 除了解決不必要的浪費，還有避免人為錯誤，一旦所有程序都自動化後，錯誤將容易被排除驗證。
 
