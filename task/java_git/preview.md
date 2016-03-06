@@ -12,7 +12,7 @@ preview
 ### ssh publish setup
 
 -	Name: 選擇在 [publish-over-ssh](../plugin/publish-over-ssh.md) 建置的 ssh server
--	Source files: target/spring-boot-sample-data-rest-1.4.0.BUILD-SNAPSHOT.jar
+-	Source files: data-rest/target/spring-boot-sample-data-rest-1.4.0.BUILD-SNAPSHOT.jar
 -	Remote directory: deploy/preview
 
 ### preview 執行指令

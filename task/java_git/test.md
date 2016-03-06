@@ -12,5 +12,6 @@ test
 
 ```
 #!/bin/bash
+cd data-rest
 mvn test
 ```

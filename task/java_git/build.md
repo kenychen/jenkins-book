@@ -21,5 +21,6 @@ https://github.com/agileworks-tw/spring-boot-sample
 
 ```
 #!/bin/bash
+cd data-rest
 mvn package
 ```
