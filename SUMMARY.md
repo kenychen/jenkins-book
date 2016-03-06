@@ -2,6 +2,7 @@ Summary
 =======
 
 -	[Introduction](README.md)
+-   [Workshop](workshop/README.md)
 -	[基本概念介紹](basic/README.md)
 	-	[豐田式生產](basic/lean.md)
 	-	[敏捷式開發](basic/agile.md)
