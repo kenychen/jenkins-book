@@ -2,7 +2,7 @@ Summary
 =======
 
 -	[Introduction](README.md)
--   [Workshop](workshop/README.md)
+-	[Workshop](workshop/README.md)
 -	[基本概念介紹](basic/README.md)
 	-	[豐田式生產](basic/lean.md)
 	-	[敏捷式開發](basic/agile.md)
@@ -41,14 +41,21 @@ Summary
 	-	[preview](task/nodejs/preview.md)
 	-	[release](task/nodejs/release.md)
 
--	[Task 實作以 Java 為例](task/java/README.md)
+-	[Task 實作以 Java + git 為例](task/java_git/README.md)
 
-	-	[專案組成](task/java/project.md)
-	-	[初始資料](task/java/inital.md)
-	-	[build](task/java/build.md)
-	-	[test](task/java/test.md)
-	-	[preview](task/java/preview.md)
-	-	[release](task/java/release.md)
+	-	[build](task/java_git/build.md)
+	-	[test](task/java_git/test.md)
+	-	[preview](task/java_git/preview.md)
+	-	[release](task/java_git/release.md)
+
+-	[Task 實作以 Java + SVN 為例](task/java_svn/README.md)
+
+	-	[專案組成](task/java_svn/project.md)
+	-	[初始資料](task/java_svn/inital.md)
+	-	[build](task/java_svn/build.md)
+	-	[test](task/java_svn/test.md)
+	-	[preview](task/java_svn/preview.md)
+	-	[release](task/java_svn/release.md)
 
 -	Task 實作進階
 
