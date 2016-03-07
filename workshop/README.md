@@ -159,6 +159,7 @@ https://github.com/agileworks-tw/gradle-example
 * 執行 Shell 指令檢查 `gradle` 版本
 * 設定 Git Repository URL
 * 執行 `gradle build` 指令
+* 封存產生的 .jar 檔案
 * 建立並封存 JUnit Report
 * 建立並封存 JavaDoc Report
 
