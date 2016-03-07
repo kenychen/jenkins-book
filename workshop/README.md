@@ -51,7 +51,7 @@ sudo reboot
 簡易
 
 目標：
-認識 Jenkins Job 基礎操作
+認識 Jenkins Job 基礎操作。
 
 專案：
 https://github.com/agileworks-tw/java-hello-world
@@ -86,13 +86,13 @@ Jenkins CLI 範例
 java -jar jenkins-cli.jar -s http://localhost:8080/ delete-job HelloWorld
 ```
 
-## Report
+## Test Report: JUnit v.s. TAP
 
 難度：
 簡易
 
 目標：
-瞭解 Jenkins 的測試報表（Reporting）功能
+瞭解 Jenkins 的測試報表（Reporting）功能。
 
 使用 YSlow for PhantomJS。
 
@@ -118,6 +118,58 @@ phantomjs yslow.js -i grade -threshold "B" -f junit http://localhost:8080/ > ysl
 # tap
 phantomjs yslow.js -i grade -threshold "B" -f tap http://localhost:8080/ > yslow.tap
 ```
+
+## Markdown Converter
+
+難度：
+簡易
+
+目標：
+使用 Jenkins 處理轉檔任務並保存結果。
+
+專案：
+https://github.com/agileworks-tw/markdown-example
+
+練習：
+
+1. 建立 Free-Style Jenkins Job：`Markdown`
+2. 執行 Shell 指令檢查 `pandoc` 版本
+3. 設定 Git Repository URL
+4. 將 `README.md` 轉成 html 文件格式
+5. 保存 `README.html` 文件
+
+```
+pandoc -s README.md -o README.html
+```
+
+## Using Gradle
+
+難度：
+普通
+
+目標：
+使用 Gradle 自動化建置與測試 Java 專案。
+
+專案：
+https://github.com/agileworks-tw/gradle-example
+
+練習：
+
+* 建立 Free-Style Jenkins Job：`gradle-example`
+* 執行 Shell 指令檢查 `gradle` 版本
+* 設定 Git Repository URL
+* 執行 `gradle build` 指令
+* 建立並封存 JUnit Report
+* 建立並封存 JavaDoc Report
+
+## Getting Started with Java Projects
+
+https://github.com/TrunkWorkshop/jhipster-sample-app.git
+
+https://github.com/agileworks-tw/spring-boot-sample.git
+
+
+
 
 ## 延伸閱讀
 
