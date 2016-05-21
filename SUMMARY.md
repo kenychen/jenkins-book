@@ -72,6 +72,14 @@ Summary
 	-	[preview](withDocker/preview.md)
 	-	[release](withDocker/release.md)
 
+-	[搭配 Jenkins 2.0 之 Pipeline 進行建置](withDocker/README.md)
+
+	-	install
+	-	build
+	-	test
+	-	preview
+	-	release
+
 -	Q & A
 
 	-	[一般問題](QA/general.md)
