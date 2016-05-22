@@ -75,6 +75,7 @@ Summary
 -	[搭配 Jenkins 2.0 之 Pipeline 進行建置](jnekins2/README.md)
 
 	-	[基礎練習](jnekins2/pipeline/tutorial/README.md)
+	-	[使用 Pipeline 進行建置](jnekins2/pipeline/build/README.md)
 
 -	Q & A
 
