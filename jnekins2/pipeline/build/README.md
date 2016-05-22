@@ -1,4 +1,4 @@
-# 使用 Pipeline 進行 docker 環境建置
+# 使用 Pipeline 進行建置
 
 我們可以把前面章節所完成的相關 task 濃縮為單一個 Jenkinsfile
 
