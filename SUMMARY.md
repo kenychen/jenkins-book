@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Quick Start](workshop/README.md)
-   * Lab 101
+   * [Lab 101](workshop/lab101.md)
    * Lab 102
    * Lab 103
    * Lab 104
