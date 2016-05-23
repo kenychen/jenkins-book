@@ -5,6 +5,7 @@
    * Lab 101
    * Lab 103
    * Lab 104
+   * Lab 102
 * [基本概念介紹](basic/README.md)
    * [豐田式生產](basic/lean.md)
    * [敏捷式開發](basic/agile.md)
