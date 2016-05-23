@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Quick Start](workshop/README.md)
    * [Lab 101](workshop/lab101.md)
-   * Lab 102
+   * [Lab 102](workshop/lab102.md)
    * Lab 103
    * Lab 104
 * [基本概念介紹](basic/README.md)
