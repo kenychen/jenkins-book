@@ -29,7 +29,7 @@
    %sudo   ALL=(ALL:ALL) NOPASSWD: ALL
    
    # /etc/group
-   sudo:x:27:deploy,jenkins
+   sudo:x:27:user,jenkins
    ```
 6. 管理 Jenkins
    ```
