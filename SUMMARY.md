@@ -72,10 +72,10 @@ Summary
 	-	[preview](withDocker/preview.md)
 	-	[release](withDocker/release.md)
 
--	[搭配 Jenkins 2.0 之 Pipeline 進行建置](jnekins2/README.md)
+-	[搭配 Jenkins 2.0 之 Pipeline 進行建置](jenkins2/README.md)
 
-	-	[基礎練習](jnekins2/pipeline/tutorial/README.md)
-	-	[使用 Pipeline 進行建置](jnekins2/pipeline/build/README.md)
+	-	[基礎練習](jenkins2/pipeline/tutorial/README.md)
+	-	[使用 Pipeline 進行建置](jenkins2/pipeline/build/README.md)
 
 -	Q & A
 
