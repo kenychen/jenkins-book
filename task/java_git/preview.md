@@ -12,7 +12,7 @@ preview
 ### ssh publish setup
 
 -	Name: 選擇在 [publish-over-ssh](../plugin/publish-over-ssh.md) 建置的 ssh server
--	Source files: data-rest/target/spring-boot-sample-data-rest-1.4.0.BUILD-SNAPSHOT.jar
+-	Source files: target/spring-boot-sample-data-rest-0.1.0.jar
 -	Remote directory: deploy/preview
 
 ### preview 執行指令
@@ -23,7 +23,7 @@ cd deploy/preview
 kill `cat run.pid` || true
 kill `cat ../release/run.pid` || true
 
-java -jar target/spring-boot-sample-data-rest-1.4.0.BUILD-SNAPSHOT.jar > /dev/null 2>&1 & echo $! > run.pid
+java -jar target/spring-boot-sample-data-rest-0.1.0.jar > /dev/null 2>&1 & echo $! > run.pid
 ```
 
 如此就可以很快速的將最新的程式碼啟動進行功能驗證
