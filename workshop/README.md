@@ -22,6 +22,9 @@
    ```
 5. 設定 sudo 權限與免密碼
    ```
+   # /etc/passwd
+   jenkins:x:111:117:Jenkins,,,:/var/lib/jenkins:/bin/bash
+   
    # /etc/sudoers
    %sudo   ALL=(ALL:ALL) NOPASSWD: ALL
    
