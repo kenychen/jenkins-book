@@ -1,4 +1,4 @@
-# Pipeline 初階
+# Pipeline 使用
 
 Pipeline 是以 Groovy Script 作為撰寫，為 Java 的動態語言。
 
