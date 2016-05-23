@@ -4,7 +4,7 @@
 * [Quick Start](workshop/README.md)
    * [Lab 101](workshop/lab101.md)
    * [Lab 102](workshop/lab102.md)
-   * Lab 103
+   * [Lab 103](workshop/lab103.md)
    * Lab 104
 * [基本概念介紹](basic/README.md)
    * [豐田式生產](basic/lean.md)
