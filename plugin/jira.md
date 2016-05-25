@@ -9,7 +9,7 @@ jenkins setup
 task setup
 ----------
 
-![](images/jira/task_setting.png)
+![](images/jira/task_setup.png)
 
 commit message
 --------------
